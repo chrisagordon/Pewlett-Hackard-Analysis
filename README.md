@@ -12,5 +12,5 @@ At Pewlett-Hackard there is an upcoming wave of retiring individuals among the w
 
 ## 3. SUMMARY
 
-*A total of 133,776 employees are on track to retire in the "Silver Tsunami"
-*1549 employees are eligible to start training in the mentorship program
+- A total of 133,776 employees are on track to retire in the "Silver Tsunami"
+- 1549 employees are eligible to start training in the mentorship program
