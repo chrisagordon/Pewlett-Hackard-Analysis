@@ -7,8 +7,6 @@ At Pewlett-Hackard there is an upcoming wave of retiring individuals among the w
 
 - Data shows that there are a large 
 - Senior Engineer and Senior Staff are the positions that are going to see the largest amount of retirees
-- Bullet Point 3
-- Bullet Point 4
 
 ## 3. SUMMARY
 
